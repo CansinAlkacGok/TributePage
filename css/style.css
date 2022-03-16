@@ -98,7 +98,7 @@ header nav a:hover{
 #project div{
     overflow: scroll;
     width: 45%;
-    height: 60vh;
+    height: 64vh;
     display: inline-block;
     margin-right: 4.5em;
     padding: 1em;
@@ -116,7 +116,7 @@ header nav a:hover{
     overflow:scroll;
     display: inline-block;
     width: 47%;
-    height: 60vh;
+    height: 64vh;
     margin-left: 4.5em;
     padding: 1em;
 }
