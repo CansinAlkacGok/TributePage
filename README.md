@@ -18,8 +18,4 @@ For this exercise we will make a tribute page similar to [this example](https://
 
 - be creative!
 
-## Bonus
 
-Publish your page on GitHub pages to share with everyone
-
-Good luck and have fun!
