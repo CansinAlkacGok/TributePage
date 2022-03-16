@@ -91,11 +91,11 @@ header nav a:hover{
     margin-left: 3em;
 }
 
-#project {
+#project, #awards {
     padding: 2em;
 }
 
-#project div {
+#project div{
     overflow: scroll;
     width: 45%;
     height: 60vh;
@@ -106,4 +106,40 @@ header nav a:hover{
 
 #project img{
     width: 50%;
+}
+
+#awards img{
+    width: 48%;
+}
+
+#awards div{
+    overflow:scroll;
+    display: inline-block;
+    width: 47%;
+    height: 60vh;
+    margin-left: 4.5em;
+    padding: 1em;
+}
+
+#awards div h2{
+    margin-bottom: 30px;
+}
+
+#awards em{
+    font-weight:bolder;
+}
+
+footer div{
+    margin: 30px;
+    text-align: center;
+    background-color: rgba(192, 192, 192, 0.3);
+    padding: 10px;
+}
+
+footer div a{
+    color: black;
+}
+
+footer div a:visited{
+    color: black;
 }
