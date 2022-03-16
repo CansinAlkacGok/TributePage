@@ -8,6 +8,8 @@ body{
     font-size: 1rem;
     margin: 0;
     padding: 0;
+    background-color: #EEFCFF;
+    text-align: justify;
 }
 header{
    
@@ -31,6 +33,7 @@ header div{
     height: inherit;
     width: 40%;
     background: rgba(256,256,256, 0.5);
+   
 }
 
 header nav{
@@ -63,3 +66,22 @@ header nav a:hover{
     transition: all 0.5s;
 }
 
+#about{
+    margin-left: 0px;
+    margin-bottom: 10px;
+    padding: 30px;
+    border-left: 10px solid silver;
+    border-bottom: 10px solid silver;
+    background-color:#DDEAED ;
+}
+
+#education{
+    display: flex;
+    justify-items: space-between;
+    flex-direction: row;
+}
+
+#education div{
+    width: 50%;
+    margin-left: 3em;
+}
